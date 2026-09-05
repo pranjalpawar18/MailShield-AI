@@ -1,0 +1,32 @@
+Return-Path: <service@paypa1-secure.com>
+Received: from mail-relay-09.paypa1-secure.com (mail-relay-09.paypa1-secure.com [185.220.101.47])
+        by mx.victimcorp.com (Postfix) with ESMTPS id A1B2C3D4
+        for <employee@victimcorp.com>; Fri, 04 Sep 2026 22:14:03 +0000 (UTC)
+Received: from outbound-node3.hostingfarm.net (outbound-node3.hostingfarm.net [185.220.101.47])
+        by mail-relay-09.paypa1-secure.com with SMTP id X9Y8Z7
+        for <employee@victimcorp.com>; Fri, 04 Sep 2026 22:13:58 +0000 (UTC)
+Authentication-Results: mx.victimcorp.com;
+    spf=fail smtp.mailfrom=paypa1-secure.com;
+    dkim=none;
+    dmarc=fail
+Message-ID: <a1c9e3-phish@paypa1-secure.com>
+From: PayPal Security <service@paypa1-secure.com>
+Reply-To: paypal-verify@secure-account-check.com
+To: employee@victimcorp.com
+Subject: Urgent: Your Account Has Been Limited - Verify Now
+Date: Fri, 04 Sep 2026 22:14:00 +0000
+Content-Type: text/plain; charset="utf-8"
+
+Dear Valued Customer,
+
+We have detected unusual activity on your PayPal account. Your account has
+been temporarily limited for your protection.
+
+You must verify your identity immediately or your account will be permanently
+suspended within 24 hours.
+
+Click here to verify: http://185.220.101.47/paypal-verify/login.php
+
+Failure to act now will result in permanent loss of access to your funds.
+
+PayPal Security Team

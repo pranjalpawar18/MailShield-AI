@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+dnspython
+requests
+fpdf2
+folium
+streamlit-folium

@@ -1,0 +1,28 @@
+Return-Path: <billing@officesupplyco.com>
+Received: from mx1.victimcorp.com (mx1.victimcorp.com [10.0.4.12])
+        by mx.victimcorp.com (Postfix) with ESMTPS id 11223344
+        for <accounts@victimcorp.com>; Fri, 04 Sep 2026 11:05:44 +0000 (UTC)
+Received: from mail.officesupplyco.com (mail.officesupplyco.com [203.0.113.45])
+        by mx1.victimcorp.com with ESMTPS id 55667788
+        for <accounts@victimcorp.com>; Fri, 04 Sep 2026 11:05:30 +0000 (UTC)
+Authentication-Results: mx.victimcorp.com;
+    spf=pass smtp.mailfrom=officesupplyco.com;
+    dkim=pass header.d=officesupplyco.com;
+    dmarc=pass
+Message-ID: <inv-88213@officesupplyco.com>
+From: Office Supply Co Billing <billing@officesupplyco.com>
+Reply-To: billing@officesupplyco.com
+To: accounts@victimcorp.com
+Subject: Invoice #88213 for August Office Supplies Order
+Date: Fri, 04 Sep 2026 11:05:00 +0000
+Content-Type: text/plain; charset="utf-8"
+
+Hello,
+
+Please find attached invoice #88213 for your August order of office supplies,
+totaling $412.60. Payment is due within 30 days per our standard terms.
+
+Let us know if you have any questions about the order or billing details.
+
+Best regards,
+Office Supply Co Billing Team

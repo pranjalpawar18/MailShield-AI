@@ -1,0 +1,29 @@
+Return-Path: <newsletter@victimcorp.com>
+Received: from mx1.victimcorp.com (mx1.victimcorp.com [10.0.4.12])
+        by mx.victimcorp.com (Postfix) with ESMTPS id 99001122
+        for <all-staff@victimcorp.com>; Fri, 04 Sep 2026 08:00:12 +0000 (UTC)
+Received: from mail-internal.victimcorp.com (mail-internal.victimcorp.com [10.0.2.9])
+        by mx1.victimcorp.com with ESMTPS id 33445566
+        for <all-staff@victimcorp.com>; Fri, 04 Sep 2026 08:00:01 +0000 (UTC)
+Authentication-Results: mx.victimcorp.com;
+    spf=pass smtp.mailfrom=victimcorp.com;
+    dkim=pass header.d=victimcorp.com;
+    dmarc=pass
+Message-ID: <newsletter-wk36@victimcorp.com>
+From: VictimCorp Comms <newsletter@victimcorp.com>
+Reply-To: newsletter@victimcorp.com
+To: all-staff@victimcorp.com
+Subject: This Week at VictimCorp - Week 36 Updates
+Date: Fri, 04 Sep 2026 08:00:00 +0000
+Content-Type: text/plain; charset="utf-8"
+
+Hi team,
+
+Here's what's happening this week:
+- New cafeteria menu rolling out Monday
+- Q3 town hall scheduled for next Thursday at 4 PM
+- Reminder: submit expense reports by end of month
+
+Have a great weekend!
+
+VictimCorp Communications

@@ -1,0 +1,31 @@
+Return-Path: <it-helpdesk@victimcorp-support.net>
+Received: from mail09.freehostbox.net (mail09.freehostbox.net [103.224.182.19])
+        by mx.victimcorp.com (Postfix) with ESMTPS id 77AA88BB
+        for <employee@victimcorp.com>; Fri, 04 Sep 2026 14:40:22 +0000 (UTC)
+Received: from shared-host-22.freehostbox.net (shared-host-22.freehostbox.net [103.224.182.19])
+        by mail09.freehostbox.net with SMTP id P1Q2R3
+        for <employee@victimcorp.com>; Fri, 04 Sep 2026 14:40:10 +0000 (UTC)
+Authentication-Results: mx.victimcorp.com;
+    spf=fail smtp.mailfrom=victimcorp-support.net;
+    dkim=fail;
+    dmarc=fail
+Message-ID: <itreset-2291@victimcorp-support.net>
+From: IT Helpdesk <it-helpdesk@victimcorp-support.net>
+Reply-To: password-reset@webmail-secure-login.com
+To: employee@victimcorp.com
+Subject: Action Required: Your Password Expires Today
+Date: Fri, 04 Sep 2026 14:40:00 +0000
+Content-Type: text/plain; charset="utf-8"
+
+Dear Employee,
+
+Your network password will expire in 2 hours. To avoid being locked out of
+your email and internal systems, please reset your password immediately
+using the secure link below.
+
+Reset your password now: http://103.224.182.19/reset/webmail-login.html
+
+If you do not act now, IT support will not be able to restore your access
+until Monday.
+
+IT Helpdesk

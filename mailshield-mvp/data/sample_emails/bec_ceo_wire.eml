@@ -1,0 +1,32 @@
+Return-Path: <ceo.office@victimcorp-exec.com>
+Received: from smtp-out-77.cloudmail-relay.net (smtp-out-77.cloudmail-relay.net [45.142.212.88])
+        by mx.victimcorp.com (Postfix) with ESMTPS id F5E6D7C8
+        for <finance@victimcorp.com>; Fri, 04 Sep 2026 09:02:11 +0000 (UTC)
+Received: from vps-node-14.offshorehost.io (vps-node-14.offshorehost.io [45.142.212.88])
+        by smtp-out-77.cloudmail-relay.net with SMTP id M3N4O5
+        for <finance@victimcorp.com>; Fri, 04 Sep 2026 09:01:55 +0000 (UTC)
+Authentication-Results: mx.victimcorp.com;
+    spf=softfail smtp.mailfrom=victimcorp-exec.com;
+    dkim=none;
+    dmarc=fail
+Message-ID: <bec-4471@victimcorp-exec.com>
+From: John Miller - CEO <ceo.office@victimcorp-exec.com>
+Reply-To: j.miller.ceo@quickmail-response.com
+To: finance@victimcorp.com
+Subject: URGENT - Confidential Wire Transfer Needed Today
+Date: Fri, 04 Sep 2026 09:02:00 +0000
+Content-Type: text/plain; charset="utf-8"
+
+Hi,
+
+I'm currently in a closed-door meeting with our acquisition partners and can't
+talk on the phone. I need you to process a wire transfer of $87,500 today to
+close a time-sensitive vendor deal. This is confidential - please don't
+discuss it with anyone else on the team until I confirm publicly.
+
+Send the wire details request to our new vendor contact and reply to this
+email once done. I need this completed before 3 PM today.
+
+Thanks,
+John Miller
+CEO, VictimCorp
